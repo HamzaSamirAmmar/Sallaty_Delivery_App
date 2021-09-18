@@ -1,4 +1,4 @@
-# sallaty_delivery
+# Sallaty Delivery App
 
 A new Flutter project.
 
